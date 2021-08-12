@@ -1,1 +1,2 @@
-git push origin master
+#!/bin/bash
+mkdir up_to_date
